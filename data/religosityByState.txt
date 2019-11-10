@@ -1,0 +1,60 @@
+
+State, Territory,
+or District	Rank by population
+Percentage stating that religion is "very important" or "somewhat important"	Rank by religiosity (2014)[A]	Percent Religious, 2014[10][A]
+ California	1	73%	45	73%
+ Texas	2	86%	13	82%
+ Florida	3	78%	36	76%
+ New York	4	72%	43	73%
+ Illinois	5	77%	30	78%
+ Pennsylvania	6	77%	26	79%
+ Ohio	7	81%	32	78%
+ Georgia	8	84%	11	82%
+ Michigan	9	77%	37	76%
+ North Carolina	10	84%	19	80%
+ New Jersey	11	78%	16	82%
+ Virginia	12	81%	23	80%
+ Washington	13	67%	54	68%
+ Massachusetts	14	63%	53	68%
+ Arizona	15	75%	44	73%
+ Indiana	16	78%	40	74%
+ Tennessee	17	89%	9	86%
+ Missouri	18	82%	22	80%
+ Maryland	19	75%	33	77%
+ Wisconsin	20	75%	39	75%
+ Minnesota	21	74%	21	80%
+ Colorado	22	75%	48	71%
+ Alabama	23	90%	6	88%
+ South Carolina	24	85%	17	81%
+ Louisiana	25	90%	7	87%
+ Kentucky	26	86%	29	78%
+ Oregon	27	70%	50	69%
+ Oklahoma	28	87%	12	82%
+ Connecticut	29	69%	34	77%
+ Puerto Rico	30	—	4	98.1%[14]
+ Iowa	31	79%	27	79%
+ Mississippi	32	89%	8	86%
+ Arkansas	33	86%	10	82%
+ Utah	34	73%	31	78%
+ Kansas	35	79%	20	80%
+ Nevada	36	73%	47	72%
+ New Mexico	37	79%	28	79%
+ Nebraska	38	79%	24	80%
+ West Virginia	39	86%	15	82%
+ Idaho	40	76%	46	73%
+ Hawaii	41	76%	41	74%
+ Maine	42	63%	51	69%
+ New Hampshire	43	60%	55	64%
+ Rhode Island	44	73%	25	80%
+ Montana	45	69%	49	70%
+ Delaware	46	77%	35	77%
+ South Dakota	47	81%	14	82%
+ Alaska	48	70%	52	69%
+ North Dakota	49	76%	18	80%
+ District of Columbia	50	71%	38	76%
+ Vermont	51	57%	56	63%
+ Wyoming	52	77%	42	74%
+ Guam	53	—	3	98.3%[12]
+ US Virgin Islands	54	—	5	96.3%[11]
+ Northern Mariana Islands	55	—	2	99%[15]
+ American Samoa	56	—	1	99.3%[6][13]
